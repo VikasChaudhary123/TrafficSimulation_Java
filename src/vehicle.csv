@@ -1,0 +1,14 @@
+Segment,PlateNumber,Type,CrossingTime in sec,Direction,Length in meters,Emission,CrossingStatus
+S1,BD01SMR,Car,5,left,40,5,waiting
+S2,NU02REG,Truck,6,right,5,10,waiting
+S3,BD04BMR,Car,7,straight,12,45,waiting
+S4,NU04RED,Truck,3,right,28,13,waiting
+S2,BD03EMR,Car,4,left,3,43,waiting
+S2,AU06REG,Truck,6,straight,4,17,waiting
+S1,BD05SML,Car,7,left,40,5,waiting
+S3,GD07BMR,Car,5,left,12,45,waiting
+S4,NU09REY,Truck,2,left,28,13,waiting
+S2,BD13EMR,Car,4,left,3,43,waiting
+S2,BD14EMR,Car,5,right,3,43,waiting
+S2,BD15EMR,Car,3,left,3,43,waiting
+S2,BD16EMR,Car,4,straight,3,43,waiting
